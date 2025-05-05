@@ -1,0 +1,27 @@
+2025-04-30 05:29:13,135 - INFO - Connection pool initialized with 3 connections
+2025-04-30 05:29:13,136 - INFO - DB task queue initialized and worker started
+2025-04-30 05:29:13,137 - INFO - DB singleton initialized
+2025-05-01 04:04:31,055 - INFO - Connection pool initialized with 3 connections
+2025-05-01 04:04:31,056 - INFO - DB task queue initialized and worker started
+2025-05-01 04:04:31,056 - INFO - DB singleton initialized
+2025-05-02 05:55:24,979 - INFO - Connection pool initialized with 3 connections
+2025-05-02 05:55:24,980 - INFO - DB task queue initialized and worker started
+2025-05-02 05:55:24,980 - INFO - DB singleton initialized
+2025-05-05 11:35:08,090 - INFO - Connection pool initialized with 3 connections
+2025-05-05 11:35:08,156 - INFO - DB task queue initialized and worker started
+2025-05-05 11:35:08,156 - INFO - DB singleton initialized
+2025-05-05 11:35:21,761 - INFO - Connection pool initialized with 3 connections
+2025-05-05 11:35:21,762 - INFO - DB task queue initialized and worker started
+2025-05-05 11:35:21,762 - INFO - DB singleton initialized
+2025-05-05 15:31:53,024 - INFO - Connection pool initialized with 3 connections
+2025-05-05 15:31:53,025 - INFO - DB task queue initialized and worker started
+2025-05-05 15:31:53,026 - INFO - DB singleton initialized
+2025-05-05 15:32:09,509 - INFO - Connection pool initialized with 3 connections
+2025-05-05 15:32:09,510 - INFO - DB task queue initialized and worker started
+2025-05-05 15:32:09,510 - INFO - DB singleton initialized
+2025-05-05 15:40:02,832 - INFO - Connection pool initialized with 3 connections
+2025-05-05 15:40:02,833 - INFO - DB task queue initialized and worker started
+2025-05-05 15:40:02,834 - INFO - DB singleton initialized
+2025-05-05 15:40:23,686 - INFO - Connection pool initialized with 3 connections
+2025-05-05 15:40:23,688 - INFO - DB task queue initialized and worker started
+2025-05-05 15:40:23,688 - INFO - DB singleton initialized
